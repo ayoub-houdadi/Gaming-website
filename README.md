@@ -31,8 +31,15 @@ AGAMERS/ │ ├── index.html  Haupt-HTML-Datei ├── style.css  Benutze
 3. Die Navigation und Interaktionen funktionieren sofort dank eingebundenem `script.js`.
 
 
-## 📸 Screenshots der Website
-Zur Galerie
+## 🌍 Online-Demo
+
+Du kannst die Website direkt live anschauen über GitHub Pages:
+
+🔗 https://ayoub-houdadi.github.io/Gaming-website/
+
+> Die Seite ist vollständig statisch und benötigt keinen Server. Sie wird über GitHub Pages gehostet und ist jederzeit erreichbar.
+
+
 
 ## 🙋 Über den Autor
 Entwickelt von Ayoub EL HOUDADI als Teil eines persönlichen Portfolios für Bewerbungen zur Ausbildung als Fachinformatiker für Anwendungsentwicklung.
