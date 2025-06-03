@@ -1,47 +1,47 @@
-# Spiele-Website "AGAMERS" 🎮🖥️
+# AGAMERS Gaming Website 🎮🖥️
 
-AGAMERS ist eine Gaming- und Tech-Produkt-Showcase-Website, die mit **HTML**, **CSS** und **JavaScript** erstellt wurde. Sie bietet eine moderne Startseite, Produktübersichten in den Kategorien **Games** und **Tech** sowie ein interaktives Kontaktformular.
+AGAMERS is a gaming and tech product showcase website created with **HTML**, **CSS**, and **JavaScript**. It features a modern homepage, product overviews in the **Games** and **Tech** categories, and an interactive contact form.
 
-## 🌟 Funktionen
+## 🌟 Features
 
-- ✅ Responsives Layout mit modernem CSS
-- 🎮 Eigener Bereich für beliebte Spiele mit Bildern und Beschreibung
-- 💻 Darstellung von Tech-Produkten mit Preisen im Karten-Layout
-- 📬 Kontaktformular mit Eingabefeldern für E-Mail und Nachricht
-- 📱 Mobile Navigation mit Burger-Menü (JavaScript)
-- 🌈 Aufgeräumtes und farbenfrohes Design mit guter Lesbarkeit
+- ✅ Responsive layout with modern CSS  
+- 🎮 Dedicated section for popular games with images and descriptions  
+- 💻 Display of tech products with prices in a card layout  
+- 📬 Contact form with input fields for email and message  
+- 📱 Mobile navigation with a burger menu (JavaScript)  
+- 🌈 Clean and colorful design with good readability
 
-## 🔧 Verwendete Technologien
+## 🔧 Technologies Used
 
-- **HTML5**
-- **CSS3** (inkl. `@import` für Google Fonts)
-- **Vanilla JavaScript** (reines JavaScript ohne Frameworks)
+- **HTML5**  
+- **CSS3** (including `@import` for Google Fonts)  
+- **Vanilla JavaScript** (pure JavaScript without frameworks)
 
-## 📂 Projektstruktur
+## 📂 Project Structure
+
 ```bash
-
-AGAMERS/ │ ├── index.html  Haupt-HTML-Datei ├── style.css  Benutzerdefinierte CSS-Stile ├── script.js  JavaScript für Navigation & Interaktion ├── images/  Produktbilder (Games & Tech) 
+AGAMERS/
+├── index.html       # Main HTML file
+├── style.css        # Custom CSS styles
+├── script.js        # JavaScript for navigation & interaction
+└── images/          # Product images (Games & Tech)
 ```
 
+## 🚀 Running the Project Locally
 
-## 🚀 Projekt lokal starten
+1. Clone the repository or download the ZIP file.  
+2. Open `index.html` in a web browser.  
+3. Navigation and interactions work immediately thanks to the included `script.js`.
 
-1. Repository klonen oder ZIP-Datei herunterladen.
-2. Öffne `index.html` in einem Webbrowser.
-3. Die Navigation und Interaktionen funktionieren sofort dank eingebundenem `script.js`.
+## 🌍 Online Demo
 
-
-## 🌍 Online-Demo
-
-Du kannst die Website direkt live anschauen über GitHub Pages:
+You can view the website live on GitHub Pages:
 
 🔗 https://ayoub-houdadi.github.io/Gaming-website/
 
-> Die Seite ist vollständig statisch und benötigt keinen Server. Sie wird über GitHub Pages gehostet und ist jederzeit erreichbar.
+> The site is fully static and requires no server. It is hosted via GitHub Pages and available anytime.
 
+## 🙋 About the Author
 
-
-## 🙋 Über den Autor
-Entwickelt von Ayoub EL HOUDADI.
-
-Bei Fragen oder Feedback gerne melden!
+Developed by **Ayoub EL HOUDADI**.  
+Feel free to reach out with any questions or feedback!
